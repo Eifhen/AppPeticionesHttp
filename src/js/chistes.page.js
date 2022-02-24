@@ -81,6 +81,7 @@ const agregarChiste = ( chiste ) => {
 }
 
 export const init = () => {
+    numeroElementos = 0; 
     crearChistesHtml();
     eventos();
 }
