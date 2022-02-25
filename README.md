@@ -1,5 +1,8 @@
 # Practica Peticiones Http ES6
 
+Accede al ejercicio desde mediante
+el siguiente enlace: https://eifhen.github.io/AppPeticionesHttp
+
 ## Introducción
 El propósito de esta App es el de practicar el uso de las promesas, async y await en JavaScript.
 También hacemos uso del 'fetch()' para realizar distintas peticiones http a distintas APIS.
